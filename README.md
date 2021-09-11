@@ -20,9 +20,6 @@ Ham10000 is a collection dermatoscopic images from different populations, acquir
 # Model
 This is a simple Lenet model with 3 conv layers and 3 maxpool layers. Here the validation set was the same as the test set The model gave an accuracy of around 72% in the test set, 20 epochs was taken with anything more the more was seen to overfitting.
 
-# Youtube Link 
-https://www.youtube.com/watch?v=k4piRU17IpQ&feature=youtu.be
-
 # Requirements
 <li>Tensorflow 2.3.0</li>
 <li>Streamlit 0.74.1</li>
